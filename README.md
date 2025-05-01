@@ -1,3 +1,11 @@
+本来想删一下readme但是偶像的东西一句都舍不得删呢¯\_(ツ)_/¯
+
+从今天开始要好好刷题啦!
+
+
+
+
+
 [![Star History Chart](https://api.star-history.com/svg?repos=labuladong/fucking-algorithm&type=Date)](https://star-history.com/#labuladong/fucking-algorithm&Date)
 
 
